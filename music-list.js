@@ -59,4 +59,10 @@ let allMusic = [
         img: "music-10",
         src: "music-10"
     },
+    {
+        name: "Mahiye Jinna Sohna",
+        artist: "Darshan Raval",
+        img: "music-11",
+        src: "music-11"
+    },
 ];
