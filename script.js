@@ -86,7 +86,7 @@ prevBtn.addEventListener("click", ()=>{
   prevMusic();
 });
 
-//next music button event
+//next music button  event
 nextBtn.addEventListener("click", ()=>{
   nextMusic();
 });
